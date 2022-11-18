@@ -30,6 +30,7 @@ another,
 			-Development team is hard to unblock their technology limit. 		
 
 -Strategy and Art style
+
 	-TRPG (Tactical Role Playing Game）(https://www.hp.com/us-en/shop/tech-takes/video-game-genres)
 		-In many kind of element in game, different equirement have different element suit it. 
 			We have PC , mobile and game-box , three type of game equirement.
@@ -67,6 +68,7 @@ another,
 			Each month to update the new map and storyline should be prior target, we will try to increase new function or gameplay in future.  
 	
 -Story
+
 	-Adventure
 	
 	-A woderful story can attract player to enjoy the virtual world, adventure is a good style because a good story will contain a lot of educational significance and knowledge. 
