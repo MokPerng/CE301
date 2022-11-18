@@ -1,6 +1,7 @@
 # Marketing
 
 -Ecomonic
+
 	-One Time Payment
 		-Advantage
 			-Can play whole the story of game, no need to wait update.
@@ -13,6 +14,7 @@
 			-Competition with time, so need a high performant team and developer. 
 			-Game and income cant improve when the game is low sale.	
 			-Can't solve bug after official launch.			
+
 
 	-Free Game with purchase content 
 		-Advantage
