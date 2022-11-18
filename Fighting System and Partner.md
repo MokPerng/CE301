@@ -21,7 +21,7 @@
 
 -Famon can gain experience points by winning battles to upgrade to become stronger and gain money .
 
--When you Famon is get down or low health , you can pay some fee to cure your Famon in clinic.
+-When you Famon was knocked down or low health , you can pay some fee to cure your Famon in clinic.
 
 
 
