@@ -14,7 +14,7 @@
 			-Competition with time, so need a high performant team and developer. 
 			-Game and income cant improve when the game is low sale.	
 			-Can't solve bug after official launch.			
-
+another,
 
 	-Free Game with purchase content 
 		-Advantage
